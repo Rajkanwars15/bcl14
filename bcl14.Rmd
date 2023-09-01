@@ -1,6 +1,8 @@
 ---
 title: "BCL14"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 Load necessary packages
