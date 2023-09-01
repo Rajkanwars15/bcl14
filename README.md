@@ -1,10 +1,5 @@
 # 2014 Endorsed Budget - Expenditure Allowance by Budget Control Level (BCL)
 
-## Documentation
-
-[Documentation](Docs.md)
-
-
 ## Tech Stack
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
